@@ -122,6 +122,12 @@ body {
   .text-transform-none {
     text-transform: none;
   }
+  #technologies {
+    ul {
+      list-style-type: none;
+      margin-bottom: 0;
+    }
+  }
 }
 
 
